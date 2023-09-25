@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/jhonatanjk125/news-api-email/blob/master/NewsAPI.PNG">
-        <img src="https://github.com/jhonatanjk125/news-api-email/blob/master/NewsAPI.PNG" height="200" />
+        <img src="https://github.com/jhonatanjk125/news-api-email/blob/master/NewsAPI.PNG" />
     </a>
 </p>
 <h1 align="center">News API sent by email</h1>
